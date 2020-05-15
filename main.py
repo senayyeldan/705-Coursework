@@ -1,5 +1,5 @@
 ###############################################   LAB 8   ##############################################
-################### Script written by Dr Alex Ter-Sarkisov@City, University of London, 2020 ############
+################### Script written by Senay Yeldan@City, University of London, 2020 ############
 ##################### DEEP LEARNING CLASSIFICATION, MSC IN ARTIFICIAL INTELLIGENCE #####################
 ########################################################################################################
 import time
